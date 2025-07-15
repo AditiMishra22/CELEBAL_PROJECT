@@ -125,4 +125,4 @@ For retraining the model:
 
 
 
-Developed with ❤️ by Chitwan Rana
+Developed with ❤️ by Aditi Mishra
